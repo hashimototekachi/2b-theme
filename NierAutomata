@@ -1,5 +1,6 @@
 /*/2B in Nier:Automata theme/*/
 /*/Bạn có thể thay đổi trỏ chuột, hình bằng cách xóa và thêm url/*/
+/*/ Từ phần nickname cho đến transparency bạn có thể thay đổi theo ý thích /*/
 :root
 	{
 		--nickname: "｡YoRha No.2 Type B｡"; /Thay đổi nickname của bạn/
